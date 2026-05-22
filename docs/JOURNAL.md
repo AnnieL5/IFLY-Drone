@@ -23,3 +23,12 @@ Completed:
     - Couldn't find the old one :(
     - Created the symbol for MPU6050 and ESCs, and also checked the connection between the Raspberry Pi and NRF.
 - Continue work on BOM
+
+## 5.21
+
+Completed:
+- Researched how to integrate the camera
+    - could use ESP32-CAM
+    - Pre program it using local wife -> stream a network -> power using raspberry pi
+- Verified the schematics parts
+    - decide to power the Cam using ESC 5V
