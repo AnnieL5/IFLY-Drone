@@ -32,3 +32,15 @@ Completed:
     - Pre program it using local wife -> stream a network -> power using raspberry pi
 - Verified the schematics parts
     - decide to power the Cam using ESC 5V
+
+Challenge: still not sure how the CAM works
+
+## 5.22
+
+Completed:
+- Continue working on schematics
+    - wired the majority of the parts
+- Confirmed the camera would work
+
+Challenge:
+- have to figure out how to power the nrf24l01 - need some kind of power adapter to convert 5v to 3.3v
