@@ -7,6 +7,16 @@ Our target audience is anyone interested in using a drone: drone enthusiasts, re
 
 ## How to use it?
 
+#### mechanics
+3D Cad files
+
+#### docs
+- BOM
+- Journal
+- Other documents
+
+#### Firmware
+
 DRONECODE - Code stored on the drone (in the Raspberry PI Pico)
 
 OFFICIAL_ComputerArduino - Code in the Arduino UNO for receiving controller input and rf communication

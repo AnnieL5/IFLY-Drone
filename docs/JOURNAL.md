@@ -44,3 +44,13 @@ Completed:
 
 Challenge:
 - have to figure out how to power the nrf24l01 - need some kind of power adapter to convert 5v to 3.3v
+
+## 5.23
+
+Completed:
+- Filled the schematics parts with a background color - looks more professional
+- Continue worked on BOM
+    - Organized the materials and included a link to product
+    - Considered the option to buy drone legs only instead of the full frame
+- Started the zine page
+    - design principle: show the change from v1 to v2
