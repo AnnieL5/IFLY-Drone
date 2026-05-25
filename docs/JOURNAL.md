@@ -54,3 +54,12 @@ Completed:
     - Considered the option to buy drone legs only instead of the full frame
 - Started the zine page
     - design principle: show the change from v1 to v2
+
+## 5.24
+
+Completed
+- Modified Schematics based on actual connections
+    - Power MPU6050 (VCC) using 3.3v from raspberry pi pico (U1-36) instead of 5v from ESC (U6-2)
+    - Do SCL and SDA from MPU6050 need a pull up from 3.3V raspberry pi pico? - both 4.7k resistors
+    - used 5v to power nrf24l01
+- Update footprints
